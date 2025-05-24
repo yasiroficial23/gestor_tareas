@@ -69,6 +69,6 @@ Formulario de creación: ![image](https://github.com/user-attachments/assets/c9d
 Lista de tareas: ![image](https://github.com/user-attachments/assets/49d4a8b2-bafe-4f4b-b935-970226b25063)
 
 ## Equipo
-Yasir Garcia
-Alejandro Jimenez
+Yasir Garcia,
+Alejandro Jimenez,
 Diego Alvarez
